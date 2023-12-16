@@ -4,13 +4,34 @@ This repository contains a tutorial for Linux LPIC-1 (101) certification based o
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [FK, DS Approach](#fk-ds-approach)
-- [Topics Covered](#topics-covered)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+LPIC-1 101:
+
+    Introduction to Linux and Free Software Economics:
+        Advantages and disadvantages of Linux
+        Free software and open-source software economics
+        Linux history
+
+    Linux Installation and System Components Management:
+        Linux installation methods
+        Boot loader management
+        Kernel management
+        Installation and management of kernel modules
+
+    File System Management:
+        Directory and file management
+        Access control management
+        Disk file management
+        Search and replace commands
+
+    Databases:
+        Installation and management of MySQL or MariaDB
+        Data management in MySQL or MariaDB
+
+    Text Processing:
+        Text-based commands
+        Filters and pipes
+        Text editors (e.g., vi and nano)
+        
 
 ## Introduction
 
